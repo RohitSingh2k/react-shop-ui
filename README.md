@@ -1,4 +1,10 @@
 # Ecommerce App
+
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Dependencies](#dependencies)
+  - [Folder Structure](#folder-structure)
+  - [Steps to Run](#steps-to-run)
 ---
 ## Introduction
 
@@ -61,7 +67,8 @@ For making this project, I used these couple of Dependencies.
     │   │   ├── Register.jsx
     │   │   └── Upload.jsx
     │   └── responsive.js
-    └── yarn.lock
+    └── yarn.lock- [# Ecommerce App](#-ecommerce-app)
+
 
 ## Steps to Run 
 
